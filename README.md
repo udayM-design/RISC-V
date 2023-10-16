@@ -188,6 +188,7 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
 
 ![image](https://github.com/udayM-design/RISC-V/assets/93391726/7afdda98-acca-4e5b-9ec2-fb5a403194e0)
 
-[Back To Top](https://user-images.githubusercontent.com/93391726/275398649-b7ec083c-5a90-4552-87b6-3c18ed6fc02e.png)
+[Back To Top](https://github.com/udayM-design/RISC-V/blob/main/README.md#task-1--logic-gates)
 </details>
+
 

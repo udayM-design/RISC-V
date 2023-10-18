@@ -829,6 +829,7 @@ $out[31:0] = $op[1] ? ($op[0] ? $qut: $prod): ($op [0] ? $diff: $sum);
 <details>
 <summary>DAY 5 : Complete Pipelined RISC-V Micro Architecture</summary>
 <br>
+	
 #### 3-cycle RISCV
 
 ```

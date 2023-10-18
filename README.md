@@ -1,5 +1,7 @@
 ![image](https://github.com/udayM-design/RISC-V/assets/93391726/b7ec083c-5a90-4552-87b6-3c18ed6fc02e)
 
+### Table of content
+
 <details>
 <summary>DAY-1 : Introduction to RISC-V ISA and GNU compiler toolchain</summary>
 <br>
